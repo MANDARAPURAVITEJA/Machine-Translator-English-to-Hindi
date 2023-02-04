@@ -21,11 +21,11 @@ We have collected data from various data sources available in internet like 3rd 
 ## 💻 Web UI
 
 ### Entering Input text in English
-<a><img src='img_1.png' width="60%" height="45%"></a>
+<a><img src='img_1.png' width="65%" height="55%"></a>
 
 ### Getting Hindi(हिन्दी) text as Output
 
-<a><img src='img_2.png' width="60%" height="45%"></a>
+<a><img src='img_2.png' width="65%" height="45%"></a>
 
 
 ## 🖥️ Installation
